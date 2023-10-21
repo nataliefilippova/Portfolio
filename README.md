@@ -165,7 +165,7 @@
 
 **1. Ассоциативная карта**
 
-![Mindmap](https://i.ibb.co/vLMP7X8/yandex-routes.png)
+![Mindmap](https://drive.google.com/file/d/17isrOOEyvVF77Z1it-4PukNADrDL1zl8/view?usp=share_link)
 
 [Ассоциативная карта в большом разрешении](https://drive.google.com/file/d/17isrOOEyvVF77Z1it-4PukNADrDL1zl8/view?usp=share_link)
 
@@ -333,7 +333,7 @@
 
 > Нарисуй блок-схему, которая визуализирует алгоритм выбора скорости транспорта в зависимости от времени начала поездки.
 
-![Блок-схема](https://i.ibb.co/CPN6wv2/blockscheme.jpg)
+![Блок-схема](https://drive.google.com/file/d/1YHSG3UrMG-vtY96xYYIBeHpVvCiTQ29_/view?usp=share_link)
 
 [Блок-схема в большом разрешении](https://drive.google.com/file/d/1YHSG3UrMG-vtY96xYYIBeHpVvCiTQ29_/view?usp=share_link)
 
