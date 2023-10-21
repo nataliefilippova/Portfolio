@@ -4194,5 +4194,4 @@ API metrokit-service
 
 [Наверх](#up)
 
-&#169;	[Яндекс.Практикум](https://praktikum.yandex.ru) &#38; [](https://github.com/nataliefilippova), 2020
-
+&#169;	[Яндекс.Практикум](https://praktikum.yandex.ru) &#38; [Наталия Филиппова](https://github.com/nataliefilippova), 2023
