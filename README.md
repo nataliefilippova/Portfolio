@@ -165,9 +165,9 @@
 
 **1. Ассоциативная карта**
 
-![Mindmap](https://drive.google.com/file/d/17isrOOEyvVF77Z1it-4PukNADrDL1zl8/view?usp=share_link)
+![Mindmap](https://i.ibb.co/YtWwmsT/Copy-of-1.jpg)
 
-[Ассоциативная карта в большом разрешении](https://drive.google.com/file/d/17isrOOEyvVF77Z1it-4PukNADrDL1zl8/view?usp=share_link)
+[Ассоциативная карта в большом разрешении](https://drive.google.com/file/d/1w-afABAQ7SOitC4FNzsKbErNBNmKQp53/view?usp=share_link)
 
 **2. Классы эквивалентности и граничные значения**
 
