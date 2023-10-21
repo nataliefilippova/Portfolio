@@ -333,7 +333,7 @@
 
 > Нарисуй блок-схему, которая визуализирует алгоритм выбора скорости транспорта в зависимости от времени начала поездки.
 
-![Блок-схема](https://i.ibb.co/wScBw48/image.jpg)
+![Блок-схема](https://i.ibb.co/YBTC1Nm/Page-1.jpg)
 
 [Блок-схема в большом разрешении](https://drive.google.com/file/d/1YHSG3UrMG-vtY96xYYIBeHpVvCiTQ29_/view?usp=share_link)
 
